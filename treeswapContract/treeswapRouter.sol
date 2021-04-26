@@ -697,7 +697,7 @@ library TreeswapLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'0adfdb30bb0578668bbdebed08728deb807611fc89ca5246c23aecf02a9cd074' // init code hash
+                hex'd5a803f3c05a3a7f051d889e9625d063d36f2a4a28363c3a644c1a81baa69c2d' // init code hash
             ))));
     }
 
